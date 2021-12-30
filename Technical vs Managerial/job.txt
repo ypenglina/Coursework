@@ -1,0 +1,37 @@
+We are building the real-world J.A.R.V.I.S. for materials RnD (https://exabyte.io/img/iron-man-creates-material.gif).
+
+OVERVIEW
+You will help us develop a community around the software framework for the design and discovery of new advanced materials and chemicals (think J.A.R.V.I.S from the well-known movie).
+
+Work will focus on (1) identifying strategic pathways for community growth, (2) preparing the relevant content including case studies and technical presentation, (3) delivering content and measuring KPI.
+
+Successful candidates will continue into a leadership role as we grow.
+
+This is a full-time permanent position.
+
+RESPONSIBILITIES:
+materials modeling with AI/ML
+software development
+product design and concept development
+work closely with the engineering team, relay and explain complex concepts
+WHY JOIN:
+see the results of your creative work used directly by the world's leading enterprises
+realize your ambitions and directly define how materials research is done in the future
+work with top-tier human capital in research, engineering and venture capital
+REQUIREMENTS:
+SCIENTIFIC
+knowledge of chemistry/materials science; MS or PhD in Engineering, Computational Chemistry, Computational Biology, Computer Science or Cheminformatics (or equivalent experience)
+prior work on advanced electronic structure methods (VASP, Quantum ESPRESSO, Gaussian, NWChem, Siesta, or similar)
+prior experience with machine learning is a plus
+OTHER:
+ability to learn and apply new concepts rapidly
+prior experience in seeding and scaling technical communities
+strong written and oral communication skills with the ability to effectively collaborate with management and engineering.
+strong time-management and organization skills for coordinating multiple initiatives, priorities and implementations of new technology and products into very complex projects
+strong analytical and problem-solving skills
+extreme attention to details
+PERKS:
+equipment of your choice
+unlimited vacation days
+NOTES
+Our hiring process and example assignments are explained in more details at https://github.com/exabyte-io/rewotes
