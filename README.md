@@ -29,8 +29,12 @@
     Python code(in Jupyter notebook) used to analyze collected tweets.
     
     
-   Thank you for visiting my Github. To wrap up, here's an oil painting I did in Jan 2019. Hope you like it! 
-   <img src="https://github.com/ypenglina/Coursework/blob/4e84f80b00219fd9932f5b7ee7551ac9e03b8a34/IMG_1826%20(1).jpg" width="300">  
+   Thank you for visiting my Github.
    Lina
+   <img src="https://github.com/ypenglina/Coursework/blob/4e84f80b00219fd9932f5b7ee7551ac9e03b8a34/IMG_1826%20(1).jpg" width="300">
+   *Pineapple Vase
+   Oil Painting
+   By Lina Peng
+   Jan 2019*
    
    
