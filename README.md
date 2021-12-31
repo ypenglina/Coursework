@@ -14,7 +14,7 @@
    Source data downloaded from General Social Survey, used to generate original.dta
   ## Technical vs Managerial
    The research proposal (and code) for SOC2430 **Fields and Methods of Social Research**.  
-   For best results, download the whole folder as a zip to test the code.
+   You can download the whole folder as a zip to test the code.
    * [Data Processing and Visualization.ipynb](Technical%20vs%20Managerial/Data%20Processing%20and%20Visualization.ipynb)  
     Python code (in Jupyter notebook) used to process and visualize json data scraped from the AngelList website.  
     This file was wrote in Deepnote and may not run properly in Anaconda / Jupyter notebook.
@@ -22,7 +22,7 @@
     Python code (in Jupyter notebook) used to conduct sentiment analysis on the corpus of a sample hiring post.
   ## The Heartbeat of Employment Relationship
   The term paper (and code) for SOC2961M **Computational Methods for Social Scientists**.  
-   For best results, download the whole folder as a zip to test the code.
+  You can download the whole folder as a zip to test the code.
    * [Data Collection with Tweepy.ipynb](The%20Heartbeat%20of%20Employment%20Relationship/1229%20Computational%20-%20Data%20Collection%20with%20Tweepy.ipynb)  
     Python code(in Jupyter notebook) used to collect tweets from Twitter APIs.
    * [Data Analysis with Pandas.ipynb](The%20Heartbeat%20of%20Employment%20Relationship/1229%20Computational%20-%20Data%20Analysis%20with%20Pandas.ipynb)  
