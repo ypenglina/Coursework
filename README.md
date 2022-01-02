@@ -29,7 +29,7 @@
     Python code(in Jupyter notebook) used to collect tweets from Twitter APIs.
    * [Data Analysis with Pandas.ipynb](The%20Heartbeat%20of%20Employment%20Relationship/1229%20Computational%20-%20Data%20Analysis%20with%20Pandas.ipynb)  
     Python code(in Jupyter notebook) used to analyze collected tweets.
-   * [The Heartbeat of Employment Relationship:  How Employees’ Attitudes Toward Managers Change Over Time](The%20heartbeat%20of%20Employment%20Relationship/Heartbeat.pdf)  
+   * [The Heartbeat of Employment Relationship:  How Employees’ Attitudes Toward Managers Change Over Time](The%20Heartbeat%20of%20Employment%20Relationship/Heartbeat.pdf)  
     The paper in PDF
     
     
