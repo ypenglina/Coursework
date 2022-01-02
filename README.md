@@ -20,7 +20,7 @@
     This file was wrote in Deepnote and may not run properly in Anaconda / Jupyter notebook.
    * [Sentiment Analysis on Hiring Post.ipynb](Technical%20vs%20Managerial/Sentiment%20Analysis%20on%20Hiring%20Post.ipynb)  
     Python code (in Jupyter notebook) used to conduct sentiment analysis on the corpus of a sample hiring post.
-   * [Accessories or Parts:  Technical vs.  Man-agerial Hiring Patterns of Software Start-Ups at Seed Stage](Technical%20vs%20Managerial/technical-vs-managerial.pdf)
+   * [Accessories or Parts:  Technical vs.  Man-agerial Hiring Patterns of Software Start-Ups at Seed Stage](Technical%20vs%20Managerial/technical-vs-managerial.pdf)  
     The research proposal in PDF
   ## The Heartbeat of Employment Relationship
   The term paper (and code) for SOC2961M **Computational Methods for Social Scientists**.  
@@ -29,7 +29,7 @@
     Python code(in Jupyter notebook) used to collect tweets from Twitter APIs.
    * [Data Analysis with Pandas.ipynb](The%20Heartbeat%20of%20Employment%20Relationship/1229%20Computational%20-%20Data%20Analysis%20with%20Pandas.ipynb)  
     Python code(in Jupyter notebook) used to analyze collected tweets.
-   * [The Heartbeat of Employment Relationship:  How Employees’ Attitudes Toward Managers Change Over Time](The%20eartbeat%20of%20Employment%20Relationship/Heartbeat.pdf)
+   * [The Heartbeat of Employment Relationship:  How Employees’ Attitudes Toward Managers Change Over Time](The%20eartbeat%20of%20Employment%20Relationship/Heartbeat.pdf)  
     The paper in PDF
     
     
