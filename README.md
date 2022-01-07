@@ -22,7 +22,7 @@
     This file was wrote in Deepnote and may not run properly in Anaconda / Jupyter notebook.
    * [Sentiment Analysis on Hiring Post.ipynb](Technical%20vs%20Managerial/Sentiment%20Analysis%20on%20Hiring%20Post.ipynb)  
     Python code (in Jupyter notebook) used to conduct sentiment analysis on the corpus of a sample hiring post.
-   * [Accessories or Parts:  Technical vs.  Man-agerial Hiring Patterns of Software Start-Ups at Seed Stage](Technical%20vs%20Managerial/technical-vs-managerial.pdf)  
+   * [Accessories or Parts:  Technical vs.  Managerial Hiring Patterns of Software Start-Ups at Seed Stage](Technical%20vs%20Managerial/technical-vs-managerial.pdf)  
     The research proposal in PDF
   ## The Heartbeat of Employment Relationship
   The term paper (and code) for SOC2961M **Computational Methods for Social Scientists**.  
