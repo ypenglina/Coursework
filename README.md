@@ -6,7 +6,7 @@
   If you would like to test the code, please make sure to change the directory in the use command. 
   * [GSS-cleaning.do](GSS%20analysis%20using%20Stata/GSS-cleaning.do)  
    Do file for cleaning and processing GSS data to make original.dta
-  * [sample.do](GSS%20analysis%20using%20Stata/sample.do)  
+  * [sample.do](GSS%20analysis%20using%20Stata/0401%20sample%20do.do)  
    Do file for the assignment
   * [Interpretation on performed tests.pdf](GSS%20analysis%20using%20Stata/Interpretation%20on%20performed%20tests.pdf)  
    Explanation of the test results. 
