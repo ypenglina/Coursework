@@ -47,7 +47,7 @@
     
   ## Machine Learning / Hypothesis Testing
   A linear regression model with gradient descent for CSCI1951 **Data Science**.  
-  Done as a part of group project analyzing the factors impacting the GDP and the Economy & the prediction of performance level of an industry.
+  Done as a part of group project analyzing the factors impacting the GDP and the economy and the prediction of performance level of an industry.
 
    * [Prediction.ipynb](Prediction2.ipynb)  
     Python code (in Jupyter notebook) used to perform and evaluate the performance of the model with test/train datasets.
