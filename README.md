@@ -1,7 +1,7 @@
 # Coursework
  Welcome to my GitHub! Here's the repository for my MSAR coursework @ Brown University.
  
-  ## GSS analysis using Stata
+  ## GSS analysis
   A sample Stata assignment for SOC	2010	**Multivariate Statistical Methods I**.  
   In this assignment, I performed some multivariate linear models with interaction variables. 
   * [GSS-cleaning.do](GSS%20analysis%20using%20Stata/GSS-cleaning.do)  
