@@ -21,7 +21,7 @@
   A sample Stata assignment for ECON 1630 **Mathematical Econometrics**.
   In this assignment, I prepared data and performed a DiD model.
   
-  * [econ_problem set 5](econ_ps5.pdf)  
+  * [Problem Set 5](econ_ps5.pdf)  
   
   ## Technical vs Managerial
    The proposal + code for SOC2430 **Fields and Methods of Social Research**.  
