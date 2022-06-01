@@ -51,7 +51,7 @@
 
    * [Prediction.ipynb](Prediction2.ipynb)  
     Python code (in Jupyter notebook) used to perform and evaluate the performance of the model with test/train datasets.
-   * [The Economic Analysis Report](https://docs.google.com/presentation/d/17LHeAneNp3uus08n9h-YjJrzZO-4OI05CQdlmxMPdMo/edit?usp=sharing)
+   * [The Economic Analysis Report](https://docs.google.com/presentation/d/17LHeAneNp3uus08n9h-YjJrzZO-4OI05CQdlmxMPdMo/edit?usp=sharing)  
     The project research poster.   
     I was responsible for selecting and evaluating the dataset, **Analysis #1: Job Creation & Estabs Entry** and **Impact & Challenges**.
     
