@@ -18,7 +18,7 @@
    *If you would like to test the code, please make sure to change the directory in the use command.* 
    
   ## Econometrics
-  A sample Stata assignment for ECON 1630 **Mathematical Econometrics**.
+  A sample Stata assignment for ECON 1630 **Mathematical Econometrics**.  
   In this assignment, I prepared data and performed a DiD model.
   
   * [Problem Set 5](econ_ps5.pdf)  
