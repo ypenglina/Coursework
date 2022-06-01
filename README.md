@@ -3,7 +3,7 @@
  
   ## GSS analysis
   A sample Stata assignment for SOC	2010	**Multivariate Statistical Methods I**.  
-  In this assignment, I performed some multivariate linear models with interaction variables. 
+  In this assignment, I performed some multivariate linear models with interaction variables on General Social Survey (GSS) data. 
   * [GSS-cleaning.do](GSS%20analysis%20using%20Stata/GSS-cleaning.do)  
    Do file for cleaning and processing GSS data to make original.dta
   * [sample.do](GSS%20analysis%20using%20Stata/0401%20sample%20do.do)  
